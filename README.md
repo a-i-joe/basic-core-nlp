@@ -29,3 +29,5 @@ sbt "run training100.txt"
 sbt "run training1000.txt"
 ```
 Be sure to use quotes so SBT recognizes the second word as part of the command (in this case, the file with training data).
+
+jest
